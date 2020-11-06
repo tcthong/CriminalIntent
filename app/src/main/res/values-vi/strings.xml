@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Người phạm lỗi</string>
+    <string name="crime_title_hint">Nhập tiêu đề cho lỗi</string>
+    <string name="crime_title_label">Tên</string>
+    <string name="crime_details_label">Chi tiết</string>
+    <string name="crime_solved_label">Đã giải quyết</string>
+    <string name="new_crime_label">Thêm lỗi mới</string>
+    <string name="no_crimes">Không có lỗi nào</string>
+    <string name="add_crime_text">Thêm lỗi</string>
+    <string name="crime_suspect_text">Chọn đối tượng nghi ngờ</string>
+    <string name="crime_report_text">Gửi báo cáo về lỗi</string>
+    <string name="crime_report">%1$s! Phát hiện lỗi lúc %2$s. %3$s, và %4$s</string>
+    <string name="crime_report_solved">Đã được giải quyết</string>
+    <string name="crime_report_unsolved">Chưa được giải quyết</string>
+    <string name="crime_report_no_suspect">Không có đối tượng nghi ngờ</string>
+    <string name="crime_report_suspect">Đối tượng nghi ngờ là %s</string>
+    <string name="crime_report_subject">Báo cáo người phạm lỗi</string>
+    <string name="send_report">Gửi báo cáo về lỗi thông qua</string>
+    <string name="crime_camera_button_description">Chụp ảnh hiện trường của lỗi</string>
+    <string name="crime_photo_no_image_description">Hiện trường của lỗi (chưa được chụp)</string>
+    <string name="crime_photo_image_description">Hiện trường của lỗi (đã được chụp)</string>
+    <string name="crime_item_description">Lỗi %1$s. Phát hiện lúc %2$s và %3$s</string>
+    <string name="crime_resolved">được giải quyết</string>
+    <string name="crime_unresolved">chưa được giải quyết</string>
+</resources>
